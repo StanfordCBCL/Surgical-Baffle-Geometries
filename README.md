@@ -15,7 +15,7 @@ This repository includes data for **4 retrospective DORV patients**.
   - `RA.vtp`
   - `LA.vtp`
 
-- **Final combined surface mesh**
+- **Final combined surface mesh** (`.vtp`)
   - watertight and topologically consistent
 
 - **Volume mesh** (`.vtu`)
